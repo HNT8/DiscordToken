@@ -1,5 +1,5 @@
 <div align="center">
-### New token logger in development. This is old and outdated. Although it still functions, this should not be used.
+###New token logger in development. This is old and outdated. Although it still functions, this should not be used.
 </div>
 
 # DiscordToken
