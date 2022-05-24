@@ -1,8 +1,11 @@
+<br/>
 <div align="center">
-###New token logger in development. This is old and outdated. Although it still functions, this should not be used.
+  
+  # DiscordToken
+  ### This is an old and outdated discord token logger that is inefficient and outdated. Although it still functions properly, it should not be used and should only ne used for learning purposes. A new advanced discord token logger is in development.
+  
 </div>
-
-# DiscordToken
+<hr>
 
 This is a lightweight C# discord token & geo information logger.
 Any logged information gets sent directly to a specified Discord webhook. 
